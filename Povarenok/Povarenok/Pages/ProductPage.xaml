@@ -1,0 +1,82 @@
+﻿<Page x:Class="Povarenok.Pages.ProductPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Povarenok.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="1000"
+      Title="ProductPage" FontSize="18" FontFamily="Comic Sans MS" Loaded="ProductPage_Loaded">
+    <Grid>
+        <ListView x:Name="ProdLV" Margin="0 50" HorizontalContentAlignment="Stretch">
+            <ListView.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Добавить в заказ" x:Name="AddToOrder" Click="AddToOrder_Click"/>
+                </ContextMenu>
+            </ListView.ContextMenu>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Grid x:Name="MGrid">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="150"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="30"/>
+                            <ColumnDefinition Width="130"/>
+                        </Grid.ColumnDefinitions>
+                        <Image MaxWidth="150">
+                            <Image.Source>
+                                <Binding Path="ProductPhoto">
+                                    <Binding.TargetNullValue>
+                                        <ImageSource>..\Resources\picture.png</ImageSource>
+                                    </Binding.TargetNullValue>
+                                </Binding>
+                            </Image.Source>
+                        </Image>
+                        <StackPanel Grid.Column="1" Margin="5">
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Название: "/>
+                                <TextBlock Text="{Binding ProductName}"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Описание: "/>
+                                <TextBlock Text="{Binding ProductDescription}" TextWrapping="Wrap"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Производитель: "/>
+                                <TextBlock Text="{Binding ProductManufacturer}"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Цена: "/>
+                                <TextBlock Text="{Binding ProductCost, StringFormat='0.00'}" TextDecorations="Strikethrough" Margin="5 0" Foreground="#999"/>
+                                <TextBlock Text="{Binding SumWithDiscount, StringFormat='0.00'}" Margin="5 0"/>
+                            </StackPanel>
+                        </StackPanel>
+                        <TextBlock Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center" TextAlignment="Center" Text="{Binding ProductDiscountAmount}"/>
+                        <Button Grid.Column="3" Visibility="Collapsed" Style="{StaticResource mainBtn}" Content="Изменить" x:Name="EditBtn" Click="EditBtn_Click" Margin="10" Height="45"/>
+                    </Grid>
+                    <DataTemplate.Triggers>
+                        <DataTrigger Binding="{Binding CheckDisc}" Value="true">
+                            <Setter TargetName="MGrid" Property="Background" Value="#7fff00"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding CheckUser}" Value="true">
+                            <Setter TargetName="EditBtn" Property="Visibility" Value="Visible"/>
+                        </DataTrigger>
+                    </DataTemplate.Triggers>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <TextBlock Text="" x:Name="CountRowTxt"  Margin="10" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <TextBox x:Name="SearchTxt" TextChanged="SearchTxt_TextChanged" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="5" Width="200"/>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Bottom">
+            <ComboBox x:Name="SortCmb" Margin="5" Style="{StaticResource mainCmb}" SelectionChanged="SortCmb_SelectionChanged" Height="30" Width="220"/>
+            <ComboBox x:Name="FilterCmb" SelectedIndex="0" Margin="5" Style="{StaticResource mainCmb}" SelectionChanged="SortCmb_SelectionChanged" Height="30" Width="160"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="5">
+            <Button x:Name="AddProdBtn" Padding="5 3" Style="{StaticResource mainBtn}" Content="Добавить товар" Margin="5" Click="AddProdBtn_Click"/>
+            <Button x:Name="DelProd" Padding="5 3" Style="{StaticResource mainBtn}" Content="Удалить товар" Margin="5" Click="DelProd_Click"/>
+            <Button x:Name="AddOrderBtn" Padding="5 3" Style="{StaticResource mainBtn}" Content="Просмотр заказа" Margin="5" Click="AddOrderBtn_Click"/>
+            <Button x:Name="OrderBtn" Padding="5 3" Style="{StaticResource mainBtn}" Content="Заказы" Margin="5" Click="OrderBtn_Click"/>
+        </StackPanel>
+        <TextBlock x:Name="CurrentUserTxt" VerticalAlignment="Top" HorizontalAlignment="Right" Margin="10"/>
+    </Grid>
+</Page>

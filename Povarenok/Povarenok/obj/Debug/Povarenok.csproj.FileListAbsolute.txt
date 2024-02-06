@@ -1,0 +1,205 @@
+C:\Users\1\source\repos\Povarenok\Povarenok\bin\Debug\Povarenok.exe.config
+C:\Users\1\source\repos\Povarenok\Povarenok\bin\Debug\Povarenok.exe
+C:\Users\1\source\repos\Povarenok\Povarenok\bin\Debug\Povarenok.pdb
+C:\Users\1\source\repos\Povarenok\Povarenok\obj\Debug\Povarenok.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Povarenok\Povarenok\obj\Debug\Povarenok.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\source\repos\Povarenok\Povarenok\obj\Debug\MainWindow.g.cs
+C:\Users\1\source\repos\Povarenok\Povarenok\obj\Debug\App.g.cs
+C:\Users\1\source\repos\Povarenok\Povarenok\obj\Debug\Povarenok_MarkupCompile.cache
+C:\Users\1\source\repos\Povarenok\Povarenok\obj\Debug\Povarenok_MarkupCompile.lref
+C:\Users\1\source\repos\Povarenok\Povarenok\obj\Debug\MainWindow.baml
+C:\Users\1\source\repos\Povarenok\Povarenok\obj\Debug\Povarenok.g.resources
+C:\Users\1\source\repos\Povarenok\Povarenok\obj\Debug\Povarenok.Properties.Resources.resources
+C:\Users\1\source\repos\Povarenok\Povarenok\obj\Debug\Povarenok.csproj.GenerateResource.cache
+C:\Users\1\source\repos\Povarenok\Povarenok\obj\Debug\Povarenok.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Povarenok\Povarenok\obj\Debug\Povarenok.exe
+C:\Users\1\source\repos\Povarenok\Povarenok\obj\Debug\Povarenok.pdb
+C:\Users\1\source\repos\Povarenok\Povarenok\obj\Debug\Pages\Avtoris.g.cs
+C:\Users\1\source\repos\Povarenok\Povarenok\obj\Debug\Pages\Avtoris.baml
+C:\Users\1\source\repos\Povarenok\Povarenok\obj\Debug\App.baml
+C:\Users\1\source\repos\Povarenok\Povarenok\bin\Debug\EntityFramework.dll
+C:\Users\1\source\repos\Povarenok\Povarenok\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1\source\repos\Povarenok\Povarenok\bin\Debug\EntityFramework.xml
+C:\Users\1\source\repos\Povarenok\Povarenok\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1\source\repos\Povarenok\Povarenok\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\1\source\repos\Povarenok\Povarenok\obj\Debug\Pages\ProductPage.g.cs
+C:\Users\1\source\repos\Povarenok\Povarenok\obj\Debug\Povarenok_Content.g.cs
+C:\Users\1\source\repos\Povarenok\Povarenok\obj\Debug\Pages\ProductPage.baml
+C:\Users\1\source\repos\Povarenok\Povarenok\obj\Debug\Povarenok.csproj.CopyComplete
+C:\Users\1\source\repos\Povarenok\Povarenok\obj\Debug\Pages\OrderPage.g.cs
+C:\Users\1\source\repos\Povarenok\Povarenok\obj\Debug\Pages\OrderPage.baml
+C:\Users\1\source\repos\Povarenok\Povarenok\obj\Debug\Pages\AddEditProduct.g.cs
+C:\Users\1\source\repos\Povarenok\Povarenok\obj\Debug\Pages\AddEditProduct.baml
+C:\Users\1\source\repos\Povarenok\Povarenok\obj\Debug\Pages\AddEditOrderClientPage.g.cs
+C:\Users\1\source\repos\Povarenok\Povarenok\obj\Debug\Pages\AddEditOrderClientPage.baml
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\bin\Debug\Povarenok.exe.config
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\bin\Debug\Povarenok.exe
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\bin\Debug\Povarenok.pdb
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\bin\Debug\EntityFramework.dll
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\bin\Debug\EntityFramework.xml
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\obj\Debug\Povarenok.csproj.AssemblyReference.cache
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\obj\Debug\Povarenok.csproj.SuggestedBindingRedirects.cache
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\obj\Debug\MainWindow.g.cs
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\obj\Debug\Pages\AddEditOrderClientPage.g.cs
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\obj\Debug\Pages\AddEditProduct.g.cs
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\obj\Debug\Pages\Avtoris.g.cs
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\obj\Debug\Pages\OrderPage.g.cs
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\obj\Debug\Pages\ProductPage.g.cs
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\obj\Debug\App.g.cs
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\obj\Debug\Povarenok_Content.g.cs
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\obj\Debug\Povarenok_MarkupCompile.cache
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\obj\Debug\Povarenok_MarkupCompile.lref
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\obj\Debug\App.baml
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\obj\Debug\MainWindow.baml
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\obj\Debug\Pages\AddEditOrderClientPage.baml
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\obj\Debug\Pages\AddEditProduct.baml
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\obj\Debug\Pages\Avtoris.baml
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\obj\Debug\Pages\OrderPage.baml
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\obj\Debug\Pages\ProductPage.baml
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\obj\Debug\Povarenok.g.resources
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\obj\Debug\Povarenok.Properties.Resources.resources
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\obj\Debug\Povarenok.csproj.GenerateResource.cache
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\obj\Debug\Povarenok.csproj.CoreCompileInputs.cache
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\obj\Debug\Povarenok.csproj.CopyComplete
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\obj\Debug\Povarenok.exe
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\obj\Debug\Povarenok.pdb
+C:\Users\1\Desktop\Povarenok\Povarenok\bin\Debug\Trade.mdf
+C:\Users\1\Desktop\Povarenok\Povarenok\bin\Debug\Trade_log.ldf
+C:\Users\1\Desktop\Povarenok\Povarenok\bin\Debug\Povarenok.exe.config
+C:\Users\1\Desktop\Povarenok\Povarenok\bin\Debug\Povarenok.exe
+C:\Users\1\Desktop\Povarenok\Povarenok\bin\Debug\Povarenok.pdb
+C:\Users\1\Desktop\Povarenok\Povarenok\bin\Debug\EntityFramework.dll
+C:\Users\1\Desktop\Povarenok\Povarenok\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1\Desktop\Povarenok\Povarenok\bin\Debug\EntityFramework.xml
+C:\Users\1\Desktop\Povarenok\Povarenok\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1\Desktop\Povarenok\Povarenok\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\1\Desktop\Povarenok\Povarenok\obj\Debug\Povarenok.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Povarenok\Povarenok\obj\Debug\Povarenok.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Desktop\Povarenok\Povarenok\obj\Debug\MainWindow.g.cs
+C:\Users\1\Desktop\Povarenok\Povarenok\obj\Debug\Pages\AddEditOrderClientPage.g.cs
+C:\Users\1\Desktop\Povarenok\Povarenok\obj\Debug\Pages\AddEditProduct.g.cs
+C:\Users\1\Desktop\Povarenok\Povarenok\obj\Debug\Pages\Avtoris.g.cs
+C:\Users\1\Desktop\Povarenok\Povarenok\obj\Debug\Pages\OrderPage.g.cs
+C:\Users\1\Desktop\Povarenok\Povarenok\obj\Debug\Pages\ProductPage.g.cs
+C:\Users\1\Desktop\Povarenok\Povarenok\obj\Debug\App.g.cs
+C:\Users\1\Desktop\Povarenok\Povarenok\obj\Debug\Povarenok_Content.g.cs
+C:\Users\1\Desktop\Povarenok\Povarenok\obj\Debug\Povarenok_MarkupCompile.cache
+C:\Users\1\Desktop\Povarenok\Povarenok\obj\Debug\Povarenok_MarkupCompile.lref
+C:\Users\1\Desktop\Povarenok\Povarenok\obj\Debug\App.baml
+C:\Users\1\Desktop\Povarenok\Povarenok\obj\Debug\MainWindow.baml
+C:\Users\1\Desktop\Povarenok\Povarenok\obj\Debug\Pages\AddEditOrderClientPage.baml
+C:\Users\1\Desktop\Povarenok\Povarenok\obj\Debug\Pages\AddEditProduct.baml
+C:\Users\1\Desktop\Povarenok\Povarenok\obj\Debug\Pages\Avtoris.baml
+C:\Users\1\Desktop\Povarenok\Povarenok\obj\Debug\Pages\OrderPage.baml
+C:\Users\1\Desktop\Povarenok\Povarenok\obj\Debug\Pages\ProductPage.baml
+C:\Users\1\Desktop\Povarenok\Povarenok\obj\Debug\Povarenok.g.resources
+C:\Users\1\Desktop\Povarenok\Povarenok\obj\Debug\Povarenok.Properties.Resources.resources
+C:\Users\1\Desktop\Povarenok\Povarenok\obj\Debug\Povarenok.csproj.GenerateResource.cache
+C:\Users\1\Desktop\Povarenok\Povarenok\obj\Debug\Povarenok.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Povarenok\Povarenok\obj\Debug\Povarenok.csproj.CopyComplete
+C:\Users\1\Desktop\Povarenok\Povarenok\obj\Debug\Povarenok.exe
+C:\Users\1\Desktop\Povarenok\Povarenok\obj\Debug\Povarenok.pdb
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\bin\Debug\itextsharp.dll
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\bin\Debug\itextsharp.xml
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\bin\Debug\Trade.mdf
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\bin\Debug\Trade_log.ldf
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\bin\Debug\itextsharp.pdfa.dll
+C:\Users\1\Desktop\Povarenok\Povarenok\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\1\Desktop\Povarenok\Povarenok\bin\Debug\itextsharp.dll
+C:\Users\1\Desktop\Povarenok\Povarenok\bin\Debug\itextsharp.pdfa.dll
+C:\Users\1\Desktop\Povarenok\Povarenok\bin\Debug\itextsharp.xml
+C:\Users\1\Desktop\Povarenok\Povarenok\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\1\Desktop\Povarenok\Povarenok\obj\Debug\Pages\EditOrderPage.g.cs
+C:\Users\1\Desktop\Povarenok\Povarenok\obj\Debug\Pages\EditOrderPage.baml
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\obj\Debug\Pages\EditOrderPage.g.cs
+C:\Users\schat.DESKTOP-4JJHG8S\Desktop\Povarenok\Povarenok\obj\Debug\Pages\EditOrderPage.baml
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\bin\Debug\Trade.mdf
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\bin\Debug\Trade_log.ldf
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\bin\Debug\Povarenok.exe.config
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\bin\Debug\Povarenok.exe
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\bin\Debug\Povarenok.pdb
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\bin\Debug\EntityFramework.dll
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\bin\Debug\itextsharp.dll
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\bin\Debug\itextsharp.pdfa.dll
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\bin\Debug\EntityFramework.xml
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\bin\Debug\itextsharp.xml
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\obj\Debug\Povarenok.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\obj\Debug\Povarenok.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\obj\Debug\MainWindow.g.cs
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\obj\Debug\Pages\AddEditOrderClientPage.g.cs
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\obj\Debug\Pages\AddEditProduct.g.cs
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\obj\Debug\Pages\Avtoris.g.cs
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\obj\Debug\Pages\EditOrderPage.g.cs
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\obj\Debug\Pages\OrderPage.g.cs
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\obj\Debug\Pages\ProductPage.g.cs
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\obj\Debug\App.g.cs
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\obj\Debug\Povarenok_Content.g.cs
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\obj\Debug\Povarenok_MarkupCompile.cache
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\obj\Debug\Povarenok_MarkupCompile.lref
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\obj\Debug\App.baml
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\obj\Debug\MainWindow.baml
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\obj\Debug\Pages\AddEditOrderClientPage.baml
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\obj\Debug\Pages\AddEditProduct.baml
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\obj\Debug\Pages\Avtoris.baml
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\obj\Debug\Pages\EditOrderPage.baml
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\obj\Debug\Pages\OrderPage.baml
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\obj\Debug\Pages\ProductPage.baml
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\obj\Debug\Povarenok.g.resources
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\obj\Debug\Povarenok.Properties.Resources.resources
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\obj\Debug\Povarenok.csproj.GenerateResource.cache
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\obj\Debug\Povarenok.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\obj\Debug\Povarenok.csproj.CopyComplete
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\obj\Debug\Povarenok.exe
+C:\Users\1\Desktop\Полностью законченное задание ДЭ вариант 3\Вариант 3\Povarenok\Povarenok\obj\Debug\Povarenok.pdb
+C:\Users\User\Desktop\Povarenok\Povarenok\bin\Debug\Trade.mdf
+C:\Users\User\Desktop\Povarenok\Povarenok\bin\Debug\Trade_log.ldf
+C:\Users\User\Desktop\Povarenok\Povarenok\bin\Debug\Povarenok.exe.config
+C:\Users\User\Desktop\Povarenok\Povarenok\bin\Debug\Povarenok.exe
+C:\Users\User\Desktop\Povarenok\Povarenok\bin\Debug\Povarenok.pdb
+C:\Users\User\Desktop\Povarenok\Povarenok\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\Povarenok\Povarenok\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Povarenok\Povarenok\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Povarenok\Povarenok\bin\Debug\itextsharp.dll
+C:\Users\User\Desktop\Povarenok\Povarenok\bin\Debug\itextsharp.pdfa.dll
+C:\Users\User\Desktop\Povarenok\Povarenok\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Povarenok\Povarenok\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Povarenok\Povarenok\bin\Debug\itextsharp.xml
+C:\Users\User\Desktop\Povarenok\Povarenok\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\Desktop\Povarenok\Povarenok\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\User\Desktop\Povarenok\Povarenok\obj\Debug\Povarenok.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Povarenok\Povarenok\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Povarenok\Povarenok\obj\Debug\Pages\AddEditOrderClientPage.g.cs
+C:\Users\User\Desktop\Povarenok\Povarenok\obj\Debug\Pages\AddEditProduct.g.cs
+C:\Users\User\Desktop\Povarenok\Povarenok\obj\Debug\Pages\Avtoris.g.cs
+C:\Users\User\Desktop\Povarenok\Povarenok\obj\Debug\Pages\EditOrderPage.g.cs
+C:\Users\User\Desktop\Povarenok\Povarenok\obj\Debug\Pages\OrderPage.g.cs
+C:\Users\User\Desktop\Povarenok\Povarenok\obj\Debug\Pages\ProductPage.g.cs
+C:\Users\User\Desktop\Povarenok\Povarenok\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Povarenok\Povarenok\obj\Debug\Povarenok_Content.g.cs
+C:\Users\User\Desktop\Povarenok\Povarenok\obj\Debug\Povarenok_MarkupCompile.cache
+C:\Users\User\Desktop\Povarenok\Povarenok\obj\Debug\Povarenok_MarkupCompile.lref
+C:\Users\User\Desktop\Povarenok\Povarenok\obj\Debug\App.baml
+C:\Users\User\Desktop\Povarenok\Povarenok\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Povarenok\Povarenok\obj\Debug\Pages\AddEditOrderClientPage.baml
+C:\Users\User\Desktop\Povarenok\Povarenok\obj\Debug\Pages\AddEditProduct.baml
+C:\Users\User\Desktop\Povarenok\Povarenok\obj\Debug\Pages\Avtoris.baml
+C:\Users\User\Desktop\Povarenok\Povarenok\obj\Debug\Pages\EditOrderPage.baml
+C:\Users\User\Desktop\Povarenok\Povarenok\obj\Debug\Pages\OrderPage.baml
+C:\Users\User\Desktop\Povarenok\Povarenok\obj\Debug\Pages\ProductPage.baml
+C:\Users\User\Desktop\Povarenok\Povarenok\obj\Debug\Povarenok.g.resources
+C:\Users\User\Desktop\Povarenok\Povarenok\obj\Debug\Povarenok.Properties.Resources.resources
+C:\Users\User\Desktop\Povarenok\Povarenok\obj\Debug\Povarenok.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Povarenok\Povarenok\obj\Debug\Povarenok.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Povarenok\Povarenok\obj\Debug\Povarenok.csproj.CopyComplete
+C:\Users\User\Desktop\Povarenok\Povarenok\obj\Debug\Povarenok.exe
+C:\Users\User\Desktop\Povarenok\Povarenok\obj\Debug\Povarenok.pdb

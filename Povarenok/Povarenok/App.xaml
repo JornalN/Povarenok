@@ -1,0 +1,19 @@
+﻿<Application x:Class="Povarenok.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Povarenok"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style x:Key="mainBtn" TargetType="Button">
+            <Setter Property="Background" Value="#FFCC6604"/>
+            <Setter Property="FontFamily" Value="Comic Sans MS"/>
+            <Setter Property="BorderBrush" Value="{x:Null}"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Padding" Value="10"/>
+        </Style>
+        <Style x:Key="mainCmb" TargetType="ComboBox">
+            <Setter Property="Background" Value="#FFFFCC99"/>
+            <Setter Property="BorderBrush" Value="#FFFFCC99"/>
+        </Style>
+    </Application.Resources>
+</Application>
